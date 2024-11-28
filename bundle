@@ -1,0 +1,13 @@
+p1
+  Root command for file Bundler CLI
+
+Usage:
+  p1 [options] [command]
+
+Options:
+  --version       Show version information
+  -?, -h, --help  Show help and usage information
+
+Commands:
+  bundle  Bundle code files to a single file
+

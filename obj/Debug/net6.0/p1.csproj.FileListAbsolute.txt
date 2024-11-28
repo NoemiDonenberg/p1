@@ -1,0 +1,60 @@
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\p1.exe
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\p1.deps.json
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\p1.runtimeconfig.json
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\p1.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\p1.pdb
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\p1.csproj.AssemblyReference.cache
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\p1.GeneratedMSBuildEditorConfig.editorconfig
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\p1.AssemblyInfoInputs.cache
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\p1.AssemblyInfo.cs
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\p1.csproj.CoreCompileInputs.cache
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\p1.dll
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\refint\p1.dll
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\p1.pdb
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\p1.genruntimeconfig.cache
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\ref\p1.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\System.CommandLine.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+D:\נעמי תכנות\פרקטיקוד\p1\obj\Debug\net6.0\p1.csproj.CopyComplete
+D:\פרקטיקוד\p1\bin\Debug\net6.0\p1.exe
+D:\פרקטיקוד\p1\bin\Debug\net6.0\p1.deps.json
+D:\פרקטיקוד\p1\bin\Debug\net6.0\p1.runtimeconfig.json
+D:\פרקטיקוד\p1\bin\Debug\net6.0\p1.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\p1.pdb
+D:\פרקטיקוד\p1\bin\Debug\net6.0\System.CommandLine.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+D:\פרקטיקוד\p1\obj\Debug\net6.0\p1.csproj.AssemblyReference.cache
+D:\פרקטיקוד\p1\obj\Debug\net6.0\p1.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרקטיקוד\p1\obj\Debug\net6.0\p1.AssemblyInfoInputs.cache
+D:\פרקטיקוד\p1\obj\Debug\net6.0\p1.AssemblyInfo.cs
+D:\פרקטיקוד\p1\obj\Debug\net6.0\p1.csproj.CoreCompileInputs.cache
+D:\פרקטיקוד\p1\obj\Debug\net6.0\p1.csproj.CopyComplete
+D:\פרקטיקוד\p1\obj\Debug\net6.0\p1.dll
+D:\פרקטיקוד\p1\obj\Debug\net6.0\refint\p1.dll
+D:\פרקטיקוד\p1\obj\Debug\net6.0\p1.pdb
+D:\פרקטיקוד\p1\obj\Debug\net6.0\p1.genruntimeconfig.cache
+D:\פרקטיקוד\p1\obj\Debug\net6.0\ref\p1.dll
